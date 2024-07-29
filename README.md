@@ -7,6 +7,7 @@ List of vital Libraries, without these the program may not function correctly:
  - subprocess
  - importlib.metadata
  - setuptools
+
 If you have any issues with the program, check if you have these libraries installed.
 The vital libraries are marked with an asterisk * .
 Also, you need a working python installation.
